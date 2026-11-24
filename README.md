@@ -31,10 +31,16 @@
 方式一（推荐）：打开下面的地址，Violentmonkey 会弹出安装页：
 
 ```text
-https://raw.githubusercontent.com/AThunderBird-code/weibo-backup/main/weibo-backup.user.js
+https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
 ```
 
-方式二：打开 [`weibo-backup.user.js`](./weibo-backup.user.js) 后点「Raw」，或新建脚本粘贴内容。
+方式二（镜像）：GitHub 访问不稳定时使用 jsDelivr：
+
+```text
+https://cdn.jsdelivr.net/gh/AThunderBird-code/weibo-backup@main/weibo-backup.user.js
+```
+
+方式三：打开 [`weibo-backup.user.js`](./weibo-backup.user.js) 后点「Raw」，或新建脚本粘贴内容。
 
 安装后打开并登录 `https://weibo.com`。
 

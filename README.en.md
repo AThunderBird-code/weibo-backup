@@ -31,10 +31,16 @@ Current version: **v0.3.3**
 Option A (recommended): open the URL below and follow the Violentmonkey install prompt:
 
 ```text
-https://raw.githubusercontent.com/AThunderBird-code/weibo-backup/main/weibo-backup.user.js
+https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
 ```
 
-Option B: open [`weibo-backup.user.js`](./weibo-backup.user.js) and click "Raw", or create a new script and paste the contents.
+Option B (mirror): if GitHub is slow or blocked, use jsDelivr:
+
+```text
+https://cdn.jsdelivr.net/gh/AThunderBird-code/weibo-backup@main/weibo-backup.user.js
+```
+
+Option C: open [`weibo-backup.user.js`](./weibo-backup.user.js) and click "Raw", or create a new script and paste the contents.
 
 Then open and sign in to `https://weibo.com`.
 

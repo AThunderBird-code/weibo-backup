@@ -7,8 +7,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/AThunderBird-code/weibo-backup
 // @supportURL   https://github.com/AThunderBird-code/weibo-backup/issues
-// @downloadURL  https://raw.githubusercontent.com/AThunderBird-code/weibo-backup/main/weibo-backup.user.js
-// @updateURL    https://raw.githubusercontent.com/AThunderBird-code/weibo-backup/main/weibo-backup.user.js
+// @downloadURL  https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
+// @updateURL    https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
 // @match        https://weibo.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
