@@ -28,19 +28,31 @@
 
 ### 2. 安装脚本
 
-方式一（推荐）：打开下面的地址，Violentmonkey 会弹出安装页：
+方式一（推荐）：Greasy Fork 脚本页，安装后可自动接收更新：
+
+```text
+https://greasyfork.org/zh-CN/scripts/606987
+```
+
+方式二：ScriptCat 脚本页（国内访问较快，同样支持自动更新）：
+
+```text
+https://scriptcat.org/zh-CN/script-show-page/9226
+```
+
+方式三：GitHub Release 直链，Violentmonkey 会弹出安装页：
 
 ```text
 https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
 ```
 
-方式二（镜像）：GitHub 访问不稳定时使用 jsDelivr：
+方式四（镜像）：GitHub 访问不稳定时使用 jsDelivr：
 
 ```text
 https://cdn.jsdelivr.net/gh/AThunderBird-code/weibo-backup@main/weibo-backup.user.js
 ```
 
-方式三：打开 [`weibo-backup.user.js`](./weibo-backup.user.js) 后点「Raw」，或新建脚本粘贴内容。
+方式五：打开 [`weibo-backup.user.js`](./weibo-backup.user.js) 后点「Raw」，或新建脚本粘贴内容。
 
 安装后打开并登录 `https://weibo.com`。
 

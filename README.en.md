@@ -28,19 +28,31 @@ Current version: **v0.3.3**
 
 ### 2. Install the script
 
-Option A (recommended): open the URL below and follow the Violentmonkey install prompt:
+Option A (recommended): install from Greasy Fork, which also delivers updates automatically:
+
+```text
+https://greasyfork.org/zh-CN/scripts/606987
+```
+
+Option B: ScriptCat (faster access from mainland China, also delivers updates):
+
+```text
+https://scriptcat.org/zh-CN/script-show-page/9226
+```
+
+Option C: direct link to the GitHub release; Violentmonkey shows the install prompt:
 
 ```text
 https://github.com/AThunderBird-code/weibo-backup/releases/latest/download/weibo-backup.user.js
 ```
 
-Option B (mirror): if GitHub is slow or blocked, use jsDelivr:
+Option D (mirror): if GitHub is slow or blocked, use jsDelivr:
 
 ```text
 https://cdn.jsdelivr.net/gh/AThunderBird-code/weibo-backup@main/weibo-backup.user.js
 ```
 
-Option C: open [`weibo-backup.user.js`](./weibo-backup.user.js) and click "Raw", or create a new script and paste the contents.
+Option E: open [`weibo-backup.user.js`](./weibo-backup.user.js) and click "Raw", or create a new script and paste the contents.
 
 Then open and sign in to `https://weibo.com`.
 
