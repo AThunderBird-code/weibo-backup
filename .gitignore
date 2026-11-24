@@ -2,6 +2,9 @@ data/
 backup/
 images/
 videos/
+verify/
+tools/
+.trae/
 *.log
 .DS_Store
 Thumbs.db
